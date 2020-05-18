@@ -1,0 +1,3 @@
+[submodule "bic-pipelines"]
+	path = bic-pipelines
+	url = https://github.com/BIC-MNI/bic-pipelines.git

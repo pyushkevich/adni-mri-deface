@@ -1,3 +1,3 @@
 [submodule "bic-pipelines"]
-	path = bic-pipelines
+	path = pipelines/minc_deface/bic-pipelines
 	url = https://github.com/BIC-MNI/bic-pipelines.git
